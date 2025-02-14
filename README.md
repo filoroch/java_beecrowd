@@ -7,7 +7,8 @@ Caso queira executar na sua maquina, copie o link: https://github.com/filoroch/j
 git clone https://github.com/filoroch/java_beecrowd.git
 ````
 
-> [!WARNING] Nesse repositorio você vai encontrar somente os arquivos de base com as orientações para resolver os exercicios, as respostas estão na sua cabeça!
+> [!WARNING]
+> Nesse repositorio você vai encontrar somente os arquivos de base com as orientações para resolver os exercicios, as respostas estão na sua cabeça!
 
 # Beginner
 | Exercicio | Status | Exemplo | 
